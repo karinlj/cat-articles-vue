@@ -1,24 +1,47 @@
 # cat-articles
 
-## Project setup
+## Description
+
+Application for exploring Vue.js. CRUD and jsonPlaceholder.
+
+## Prerequisites
+
+NodeJS
+
+## Installation
+
+To clone
+`git clone https://github.com/karinlj/cat-articles-vue.git.`
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## To build
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+Then use the dist folder you get.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Built With
+
+- vue.js
+- CSS
+- Materialize.css
+- jsonPlaceholder
+
+## Author
+
+- **Karin Ljunggren** - [karinlj](https://github.com/karinlj)
+
+## Acknowledgements
+
+Thank's to The Net Ninja.
