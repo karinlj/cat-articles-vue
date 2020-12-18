@@ -4,6 +4,8 @@
 
 Application for exploring Vue.js. CRUD and jsonPlaceholder.
 
+![Screenshot](/src/assets/screenshot.jpg?raw=true "Screenshot")
+
 ## Prerequisites
 
 NodeJS
